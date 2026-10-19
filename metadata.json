@@ -1,0 +1,6 @@
+{
+  "name": "VIRASAT — Discover Rajasthan Beyond the Ordinary",
+  "description": "AI-Powered Heritage & Sustainable Travel Platform for Rajasthan featuring crowd-aware smart routes, Living Heritage Passport, artisan experiences, Green Travel Score, and AI heritage vision companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
